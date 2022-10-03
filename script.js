@@ -57,3 +57,10 @@ function calculodivi(num1, num2) {
 
 console.log(calculodivi(num1, num2));
 //#endregion
+
+//#region 
+let verduras = ['berenjena', 'coliflor', 'lechuga'];
+let [b, c, l] = verduras;
+
+console.log(b, c, l);
+//#endregion
