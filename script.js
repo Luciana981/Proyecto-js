@@ -21,3 +21,15 @@ function calculosuma(num1, num2) {
 
 console.log(calculosuma(num1, num2));
 //#endregion
+
+//#region 
+var num1 = 35;
+var num2 = 15;
+
+function calculoresta(num1, num2) {
+    let resta = num1 - num2;
+    return resta;
+}
+
+console.log(calculoresta(num1, num2));
+//#endregion
