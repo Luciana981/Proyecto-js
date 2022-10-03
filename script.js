@@ -13,6 +13,11 @@ console.log(edad);
 //#region 
 var num1 = 4;
 var num2 = 6;
-let suma = num1 + num2;
-console.log(suma);
+
+function calculosuma(num1, num2) {
+    let suma = num1 + num2;
+    return suma;
+}
+
+console.log(calculosuma(num1, num2));
 //#endregion
