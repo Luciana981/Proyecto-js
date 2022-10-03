@@ -7,4 +7,5 @@ var edad = `18`;
 //#region 
 console.log(nombre);
 console.log(apellido);
+console.log(edad);
 //#endregion
