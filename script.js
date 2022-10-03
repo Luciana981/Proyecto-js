@@ -45,3 +45,15 @@ function calculomulti(num1, num2) {
 
 console.log(calculomulti(num1, num2));
 //#endregion
+
+//#region 
+var num1 = 34;
+var num2 = 2;
+
+function calculodivi(num1, num2) {
+    let divi = num1 / num2;
+    return divi;
+}
+
+console.log(calculodivi(num1, num2));
+//#endregion
