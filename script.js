@@ -33,3 +33,15 @@ function calculoresta(num1, num2) {
 
 console.log(calculoresta(num1, num2));
 //#endregion
+
+//#region 
+var num1 = 15;
+var num2 = 7;
+
+function calculomulti(num1, num2) {
+    let multi = num1 * num2;
+    return multi;
+}
+
+console.log(calculomulti(num1, num2));
+//#endregion
